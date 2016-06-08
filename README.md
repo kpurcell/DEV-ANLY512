@@ -138,7 +138,7 @@ Honor Code.  We as members of Harrisburg University community pledge not to chea
 
 ---
 
-##  Introductions, Course planning, and Setup{#intro}
+##  Introductions, Course planning, and Setup<a id="intro"></a>
 This lecture will focus on reviewing the objectives and agenda for ANLY 580 Data Visualization.  In addition to setting the stage for the semester we will also take a tour through the historical development of the field of data visualization.  Luckily this subject has been thoughtfully studied and documented by a great many researchers.  I will lean heavily of the work of the Milestones Project an excellent academic endeavor to catalog and document the historic moments in the field of data visualization.  
 
 For further information I encourage you to read Michael Friendly's excellent essay A Brief History of Data Visualization.  This material has also been published in a different form as a chapter in Handbook of Data Visualization.  
