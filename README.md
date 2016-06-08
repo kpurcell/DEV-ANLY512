@@ -144,22 +144,22 @@ This lecture will focus on reviewing the objectives and agenda for ANLY 580 Data
 For further information I encourage you to read Michael Friendly's excellent essay A Brief History of Data Visualization.  This material has also been published in a different form as a chapter in Handbook of Data Visualization.  
 
 
-##  Historical Developments in Data Visualization{#hist}
-##  The Value of Graphical Visualization{#value}
-##  Visualization Design: Data semantics, Task abstraction, Marks and Channels{#design}
-##  Grammar of Graphics & Introduction to ggplot2{#grammar}
+###  Historical Developments in Data Visualization<a id="hist"></a>
+###  The Value of Graphical Visualization<a id="value"></a>
+###  Visualization Design: Data semantics, Task abstraction, Marks and Channels<a id="design"></a>
+###  Grammar of Graphics & Introduction to ggplot2<a id="grammar"></a>
 
-### Readings
+#### Readings
 - Wickham, Hadley. 2010. “A Layered Grammar of Graphics.” Journal of Computational and Graphical Statistics 19 (1): 3–28. doi:10.1198/jcgs.2009.07098.
 
 
-##  Graphical Perception and Data Visualization{#perception}
-##  Data Visualization Taxonomy: Comparison-Composition and Relationship-Distribution 
-##  Data Visualization in Exploratory Data Analysis
-##  Temporal, Spatial, and Spatio-Temporal Data Visualizations
-##  Interactive Data Visualizations & Visual Data Exploration (VDE)
-##  Infovis and statistical graphics 
-##  Data visualization for scientific publication vs  vs Data Story telling 
-##  Projects Submission and Presentation
-##  Tableau I: Data story telling and Data-driven journalism 
-##  Tableau II: Dashboards 
+###  Graphical Perception and Data Visualization<a id="perception"></a>
+###  Data Visualization Taxonomy: Comparison-Composition and Relationship-Distribution<a id="tax"></a>
+###  Data Visualization in Exploratory Data Analysis<a id="eda"></a>
+###  Temporal, Spatial, and Spatio-Temporal Data Visualizations<a id="spatio-temporal"></a>
+###  Interactive Data Visualizations & Visual Data Exploration (VDE)<a id="vde"></a>
+###  Infovis and statistical graphics<a id="infovis"></a>
+###  Data visualization for scientific publication vs  vs Data Story telling<a id="scipub"></a>
+###  Projects Submission and Presentation<a id="proj"></a>
+###  Tableau I: Data story telling and Data-driven journalism 
+###  Tableau II: Dashboards 
