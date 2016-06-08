@@ -1,3 +1,4 @@
+**IN DEVELOPMENT** 06/08/2016
 
 # ANALYTICS 512: Data Visualization
 
@@ -44,21 +45,21 @@ The visualization, interpretation, and communication of data is a core competenc
 
 | Week | Lecture Topic                                                                          | Date |
 |------|----------------------------------------------------------------------------------------|------|
-| 1.   |  Introductions, Course planning, and Setup                                             | 5/11 |
-| 2.   |  Introduction to R & Historical Developments in Data Visualization                     | **5/21** |
-| 3.   |  The Value of Graphical Visualization                                                  | 5/25 |
-| 4.   |  Visualization Design: Data semantics, Task abstraction, Marks and Channels            | 6/1  |
-| 5.   |  Grammar of Graphics & Introduction to ggplot2                                         | 6/8  |
-| 6.   |  Graphical Perception and Data Visualization                                           | 6/15 |
-| 7.   |  Data Visualization Taxonomy: Comparison-Composition and Relationship-Distribution     | 6/22 |
-| 8.   |  Data Visualization in Exploratory Data Analysis                                       | 6/29 |
-| 9.   |  Temporal, Spatial, and Spatio-Temporal Data Visualizations                             | **7/9** |
-| 10.  |  Interactive Data Visualizations & Visual Data Exploration (VDE)                       | 7/13 |
-| 11.  |  Infovis and statistical graphics                                                      | 7/20 |
-| 12.  |  Data visualization for scientific publication vs  vs Data Story telling               | 7/27 |
-| 13.  |  Projects Submission and Presentation                                                  | **8/6**  |
-| 14.  |  Tableau I: Data story telling and Data-driven journalism                              | 8/10 |
-| 15.  |  Tableau II: Dashboards                                                                | 8/17 |
+| 0.   |  [Introductions, Course planning, and Setup](#intro)                                   | 5/11 |
+| 1.   |  Introduction to R & Historical Developments in Data Visualization                 | **5/21** |
+| 2.   |  The Value of Graphical Visualization                                                  | 5/25 |
+| 3.   |  Visualization Design: Data semantics, Task abstraction, Marks and Channels            | 6/1  |
+| 4.   |  Grammar of Graphics & Introduction to ggplot2                                         | 6/8  |
+| 5.   |  Graphical Perception and Data Visualization                                           | 6/15 |
+| 6.   |  Data Visualization Taxonomy: Comparison-Composition and Relationship-Distribution     | 6/22 |
+| 7.   |  Data Visualization in Exploratory Data Analysis                                       | 6/29 |
+| 8.   |  Temporal, Spatial, and Spatio-Temporal Data Visualizations                        | **7/9** |
+| 9.  |  Interactive Data Visualizations & Visual Data Exploration (VDE)                       | 7/13 |
+| 10.  |  Infovis and statistical graphics                                                      | 7/20 |
+| 11.  |  Data visualization for scientific publication vs  vs Data Story telling               | 7/27 |
+| 12.  |  Projects Submission and Presentation                                              | **8/6**  |
+| 13.  |  Tableau I: Data story telling and Data-driven journalism                              | 8/10 |
+| 14.  |  Tableau II: Dashboards                                                                | 8/17 |
 
 
   
@@ -133,3 +134,32 @@ At the conclusion of this course a student will have met the following core comp
 ## Statement on Academic Integrity
 According to the University's Student Handbook: Academic integrity is the pursuit of scholarly activity free from fraud and deception, and is the educational objective of this institution.  Academic dishonesty includes, but is not limited to cheating, plagiarism, fabrication of information or citations, facilitating acts of academic dishonesty by others, unauthorized possession of examinations, submitting work of another person, or work previously used without informing the instructor, or tampering with the academic work of other students.  Any violation of academic integrity will be thoroughly investigated, and where warranted, punitive action will be taken. Students should be aware that standards for documentation and intellectual contribution may depend on the course content and method of teaching, and should consult the instructor for guidance in this area.
 Honor Code.  We as members of Harrisburg University community pledge not to cheat, plagiarize, steal, or lie in matters related to academic work.  As a Community of Learners, we honor and uphold the HU Honor Code.
+
+
+---
+
+##  Introductions, Course planning, and Setup   {#intro}
+This lecture will focus on reviewing the objectives and agenda for ANLY 580 Data Visualization.  In addition to setting the stage for the semester we will also take a tour through the historical development of the field of data visualization.  Luckily this subject has been thoughtfully studied and documented by a great many researchers.  I will lean heavily of the work of the Milestones Project an excellent academic endeavor to catalog and document the historic moments in the field of data visualization.  
+
+For further information I encourage you to read Michael Friendly's excellent essay A Brief History of Data Visualization.  This material has also been published in a different form as a chapter in Handbook of Data Visualization.  
+
+
+##  Historical Developments in Data Visualization {#hist}
+##  The Value of Graphical Visualization {#value}
+##  Visualization Design: Data semantics, Task abstraction, Marks and Channels {#design}
+##  Grammar of Graphics & Introduction to ggplot2 {#grammar}
+
+### Readings
+- Wickham, Hadley. 2010. “A Layered Grammar of Graphics.” Journal of Computational and Graphical Statistics 19 (1): 3–28. doi:10.1198/jcgs.2009.07098.
+
+
+##  Graphical Perception and Data Visualization   {#perception}
+##  Data Visualization Taxonomy: Comparison-Composition and Relationship-Distribution 
+##  Data Visualization in Exploratory Data Analysis
+##  Temporal, Spatial, and Spatio-Temporal Data Visualizations
+##  Interactive Data Visualizations & Visual Data Exploration (VDE)
+##  Infovis and statistical graphics 
+##  Data visualization for scientific publication vs  vs Data Story telling 
+##  Projects Submission and Presentation
+##  Tableau I: Data story telling and Data-driven journalism 
+##  Tableau II: Dashboards 
