@@ -144,16 +144,16 @@ This lecture will focus on reviewing the objectives and agenda for ANLY 580 Data
 For further information I encourage you to read Michael Friendly's excellent essay A Brief History of Data Visualization.  This material has also been published in a different form as a chapter in Handbook of Data Visualization.  
 
 
-##  Historical Developments in Data Visualization {#hist}
-##  The Value of Graphical Visualization {#value}
-##  Visualization Design: Data semantics, Task abstraction, Marks and Channels {#design}
-##  Grammar of Graphics & Introduction to ggplot2 {#grammar}
+##  Historical Developments in Data Visualization{#hist}
+##  The Value of Graphical Visualization{#value}
+##  Visualization Design: Data semantics, Task abstraction, Marks and Channels{#design}
+##  Grammar of Graphics & Introduction to ggplot2{#grammar}
 
 ### Readings
 - Wickham, Hadley. 2010. “A Layered Grammar of Graphics.” Journal of Computational and Graphical Statistics 19 (1): 3–28. doi:10.1198/jcgs.2009.07098.
 
 
-##  Graphical Perception and Data Visualization   {#perception}
+##  Graphical Perception and Data Visualization{#perception}
 ##  Data Visualization Taxonomy: Comparison-Composition and Relationship-Distribution 
 ##  Data Visualization in Exploratory Data Analysis
 ##  Temporal, Spatial, and Spatio-Temporal Data Visualizations
